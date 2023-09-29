@@ -9,7 +9,7 @@
     font-family: Helvetica, Arial, sans-serif;
   }
   
-
+  /*Header style start*/
   header {
     padding: 20px 35px;
     background-color: #000000;
@@ -41,7 +41,9 @@
     font-weight: lighter;
     font-size: 22px;
   }
+  /*Header style end*/
   
+  /*Footer style start*/
   footer {
     background: #000000;
     width: 100%;
@@ -68,7 +70,8 @@
   section {
     padding: 60px;
   }
-  
+  /*Footer style end*/
+
   /* Hero Style Start */
   .hero {
     background-image: url('./hero-bg.jpg');
@@ -121,9 +124,9 @@
   }
   
   /* content style start */
-  .intro {
+  .vision {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
@@ -131,6 +134,13 @@
     border-color: #fce138;
   }
 
-  .intro h2 {
+  .vision h2 {
     display: inline-block;
+  }
+
+  .vision p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 20px;
   }
