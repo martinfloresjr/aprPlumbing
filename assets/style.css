@@ -127,11 +127,11 @@
   .vision {
     text-align: center;
     font-size: 20px;
-    color: #024e76;
+    color: #9f1111;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    border-color: #fce138;
+    border-color: #000000;
   }
 
   .vision h2 {
@@ -140,7 +140,8 @@
 
   .vision p {
     line-height: 1.7;
-    color: #39a6b2;
+    color: #000000;
     width: 80%;
     font-size: 20px;
+    margin: 0 auto;
   }
